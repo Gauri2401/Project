@@ -1,1 +1,2 @@
-# this project is implemented in pyhton 
+# Project 1
+This project is implemented in pyhton 
