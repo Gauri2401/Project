@@ -1,0 +1,14 @@
+{"level": "info", "log_string": "Processing data: Sample data", "timestamp": "2024-05-19T18:42:44.493691Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Stage 1: Preparing data", "timestamp": "2024-05-19T18:42:44.493691Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Stage 2: Calling API", "timestamp": "2024-05-19T18:42:44.493691Z", "metadata": {"source": "log2.log"}}
+2024-05-20 00:12:44,497 INFO Calling API with data: Sample data
+2024-05-20 00:12:44,497 INFO API call successful
+{"level": "info", "log_string": "Stage 3: Post-processing data", "timestamp": "2024-05-19T18:42:44.493691Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Data processing complete", "timestamp": "2024-05-19T18:42:44.493691Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Processing data: Sample data", "timestamp": "2024-05-19T18:57:48.351659Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Stage 1: Preparing data", "timestamp": "2024-05-19T18:57:48.351659Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Stage 2: Calling API", "timestamp": "2024-05-19T18:57:48.351659Z", "metadata": {"source": "log2.log"}}
+2024-05-20 00:27:48,356 INFO Calling API with data: Sample data
+2024-05-20 00:27:48,356 INFO API call successful
+{"level": "info", "log_string": "Stage 3: Post-processing data", "timestamp": "2024-05-19T18:57:48.351659Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Data processing complete", "timestamp": "2024-05-19T18:57:48.351659Z", "metadata": {"source": "log2.log"}}
